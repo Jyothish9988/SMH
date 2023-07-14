@@ -20,7 +20,7 @@ Overall, the Smart Mental Health Helpline offers a comprehensive platform for in
  <h3>Admin</h3><br>
 <img src="screenshots/admin.jpg"><br>
  <h3>Specilization</h3><br>
-<img src="screenshots/specilisiation.jpg"><br>
+<img src="screenshots/specilisation.jpg"><br>
  <h3>Video Meeting</h3><br>
 <img src="screenshots/videomeet.jpg"><br>
  <h3>Payment</h3><br>
@@ -32,7 +32,7 @@ Overall, the Smart Mental Health Helpline offers a comprehensive platform for in
  <h3>Bookings</h3><br>
 <img src="screenshots/bookings.jpg"><br>
  <h3>Appoinments</h3><br>
-<img src="screenshots/appoinments.jpg"><br>
+<img src="screenshots/appoinment.jpg"><br>
  <h3>Login</h3><br>
 <img src="screenshots/login.jpg"><br>
 
