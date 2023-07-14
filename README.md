@@ -10,5 +10,27 @@ The doctor/counselor module allows doctors to manage their counseling schedule b
 In the user module, users can view the profiles of different doctors and book appointments with their preferred professionals. The booking process is facilitated through Stripe payment gateways, ensuring secure transactions. Furthermore, users have the ability to provide reviews and feedback on their counseling experiences, promoting transparency and quality improvement.<br>
 
 Overall, the Smart Mental Health Helpline offers a comprehensive platform for individuals seeking mental health support. Through its user-friendly interface and efficient features, it aims to bridge the gap between mental health professionals and those in need, fostering a healthier society.<br>
- <h3>Products Page</h3><br>
-<img src="screenshots/Web capture_30-5-2023_10286_127.0.0.1.jpeg"><br>
+<h3>About Us</h3><br>
+<img src="screenshots/aboutus.jpg"><br>
+ <h3>Contact</h3><br>
+<img src="screenshots/contact.jpg"><br>
+ <h3>Blogs</h3><br>
+<img src="screenshots/blogs.jpg"><br>
+ <h3>Admin</h3><br>
+<img src="screenshots/admin.jpg"><br>
+ <h3>Specilization</h3><br>
+<img src="screenshots/specilisiation.jpg"><br>
+ <h3>Video Meeting</h3><br>
+<img src="screenshots/videomeet.jpg"><br>
+ <h3>Payment</h3><br>
+<img src="screenshots/payment.jpg"><br>
+ <h3>Patients</h3><br>
+<img src="screenshots/patients.jpg"><br>
+ <h3>Enquiry</h3><br>
+<img src="screenshots/enquiry.jpg"><br>
+ <h3>Bookings</h3><br>
+<img src="screenshots/bookings.jpg"><br>
+ <h3>Appoinments</h3><br>
+<img src="screenshots/appoinments.jpg"><br>
+ <h3>Login</h3><br>
+<img src="screenshots/login.jpg"><br>
