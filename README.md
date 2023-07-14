@@ -1,8 +1,9 @@
 # EMH
 <h3>Abstract:</h3><br>
 Smart Mental Health Helpline is an online mental health helpline designed to provide counseling services through video conferencing. The system consists of three modules: admin, doctor, and users.<br>
-<h1>Modules Explanation</h1>
+
 <img src="screenshots/Home.jpg"><br>
+<h1>Modules Explanation</h1>
 <b>Admin Module</b>
 In the admin module, the administrator has the ability to add doctors to the platform. Once a doctor is added, they receive a mail notification informing them of their addition. The admin is also responsible for managing and adding various departments for service categorization. Additionally, the admin handles inquiries and messages from users.<br>
 <b>Doctor/Councillor Module</b>
