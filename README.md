@@ -1,4 +1,4 @@
-# EMH
+# SMH
 <h3>Abstract:</h3><br>
 Smart Mental Health Helpline is an online mental health helpline designed to provide counseling services through video conferencing. The system consists of three modules: admin, doctor, and users.<br>
 
