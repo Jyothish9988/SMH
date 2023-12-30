@@ -12,6 +12,51 @@ The doctor/counselor module allows doctors to manage their counseling schedule b
 In the user module, users can view the profiles of different doctors and book appointments with their preferred professionals. The booking process is facilitated through Stripe payment gateways, ensuring secure transactions. Furthermore, users have the ability to provide reviews and feedback on their counseling experiences, promoting transparency and quality improvement.<br>
 
 Overall, the Smart Mental Health Helpline offers a comprehensive platform for individuals seeking mental health support. Through its user-friendly interface and efficient features, it aims to bridge the gap between mental health professionals and those in need, fostering a healthier society.<br>
+<h2>Getting Started</h2>
+
+<h3>Prerequisites</h3>
+<p>
+    Before you begin, ensure you have the following installed:
+    <ul>
+        <li>PHP</li>
+        <li>Composer</li>
+        <li>Node.js</li>
+        <li>MySQL</li>
+    </ul>
+</p>
+
+<h3>Installation</h3>
+<p>
+    1. Clone the repository:
+    <pre><code>git clone https://github.com/Jyothish9988/SMH.git</code></pre>
+</p>
+
+<p>
+    2. Install dependencies:
+    <pre><code>composer install</code></pre>
+    <pre><code>npm install</code></pre>
+</p>
+
+<p>
+    3. Configure the environment:
+    <pre><code>cp .env.example .env</code></pre>
+    Update the database and other configuration settings in the .env file.
+</p>
+
+<p>
+    4. Run migrations and seed the database:
+    <pre><code>php artisan migrate --seed</code></pre>
+</p>
+
+<p>
+    5. Start the development server:
+    <pre><code>php artisan serve</code></pre>
+</p>
+
+<h2>Usage</h2>
+<p>
+    Visit the application in your browser and start exploring the features.
+</p>
 <h3>About Us</h3><br>
 <img src="screenshots/aboutus.jpg"><br>
  <h3>Contact</h3><br>
